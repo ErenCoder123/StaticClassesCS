@@ -1,0 +1,14 @@
+C:\Users\miguel\Documents\facul\aulasC\TDEstatic\bin\Debug\net8.0\TDEstatic.exe
+C:\Users\miguel\Documents\facul\aulasC\TDEstatic\bin\Debug\net8.0\TDEstatic.deps.json
+C:\Users\miguel\Documents\facul\aulasC\TDEstatic\bin\Debug\net8.0\TDEstatic.runtimeconfig.json
+C:\Users\miguel\Documents\facul\aulasC\TDEstatic\bin\Debug\net8.0\TDEstatic.dll
+C:\Users\miguel\Documents\facul\aulasC\TDEstatic\bin\Debug\net8.0\TDEstatic.pdb
+C:\Users\miguel\Documents\facul\aulasC\TDEstatic\obj\Debug\net8.0\TDEstatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miguel\Documents\facul\aulasC\TDEstatic\obj\Debug\net8.0\TDEstatic.AssemblyInfoInputs.cache
+C:\Users\miguel\Documents\facul\aulasC\TDEstatic\obj\Debug\net8.0\TDEstatic.AssemblyInfo.cs
+C:\Users\miguel\Documents\facul\aulasC\TDEstatic\obj\Debug\net8.0\TDEstatic.csproj.CoreCompileInputs.cache
+C:\Users\miguel\Documents\facul\aulasC\TDEstatic\obj\Debug\net8.0\TDEstatic.dll
+C:\Users\miguel\Documents\facul\aulasC\TDEstatic\obj\Debug\net8.0\refint\TDEstatic.dll
+C:\Users\miguel\Documents\facul\aulasC\TDEstatic\obj\Debug\net8.0\TDEstatic.pdb
+C:\Users\miguel\Documents\facul\aulasC\TDEstatic\obj\Debug\net8.0\TDEstatic.genruntimeconfig.cache
+C:\Users\miguel\Documents\facul\aulasC\TDEstatic\obj\Debug\net8.0\ref\TDEstatic.dll
